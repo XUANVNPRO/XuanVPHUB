@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XUANVNPRO/XuanVPHUB/refs/heads/main/Protected_5332481075906670.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XUANVNPRO/XUANVNPRO/refs/heads/main/Protected_9832243917451316.lua.txt"))()
